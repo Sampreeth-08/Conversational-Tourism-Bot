@@ -1,0 +1,4 @@
+kochi
+food-and-cuisine
+stew
+one of the most popular dishes in the city, stew, can either be made of chicken or mutton.

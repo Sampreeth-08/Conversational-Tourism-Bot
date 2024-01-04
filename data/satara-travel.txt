@@ -1,0 +1,5 @@
+satara
+Travel Air Road Train
+by air nearest airport is pune airport and is 122 km away from satara.
+by road nearest bus station is msrtc satara, and the region is well-connected by roads.
+rail  nearest railway station is satara road and is 6 km away from satara.

@@ -1,0 +1,5 @@
+jaisalmer
+Travel Air Road Train
+by air  jaisalmer airport is located 17 km from the city centre and is connected to other cities.
+by road  jaisalmer is connected by motorable roads with all major cities in india.
+rail  jaisalmer is connected by rail with jodhpur and delhi which, in turn, are connected to major cities and towns in india.

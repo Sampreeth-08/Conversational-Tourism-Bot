@@ -1,0 +1,4 @@
+goa
+food-and-cuisine
+canja de galinha
+this is a hearty chicken soup comprising boiling broth, vegetables and rice.
