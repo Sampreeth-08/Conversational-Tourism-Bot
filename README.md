@@ -23,7 +23,7 @@ The web scraping script utilizes Selenium for extracting information about touri
    python
    from preprocessing_module import *
 
-   # Example usage:
+   ### Example usage:
    data = preprocess_text(your_text_data)
    tokens = tokenize_and_lemmatize(data)
    
@@ -35,7 +35,7 @@ The web scraping script utilizes Selenium for extracting information about touri
    python
    from vector_space_model import *
 
-   # Example usage:
+   ### Example usage:
    query = "your_search_query"
    retrieve_results(query)
    
@@ -77,13 +77,13 @@ pip install nltk num2words scikit-learn matplotlib beautifulsoup4 selenium
 - Balarajaiah
 
 
-<!-- Iteration-1
-![Image 1](images/Figure_1-2.png) ![Image 2](images/Figure_1-1.png)
+Iteration-1
+![Image 1](./images/Figure_1-2.png) ![Image 2](./images/Figure_1-1.png)
 
 Iteration-2
-![Image 1](images/Figure_1.png) ![Image 2](images/Figure_1-3.png) -->
+![Image 1](./images/Figure_1.png) ![Image 2](./images/Figure_1-3.png)
 
-<table>
+<!-- <table>
 <th>Results for Iteration-1</th>
 <tr>
   <td><img src="images/Figure_1-2.png"></td> 
@@ -97,4 +97,4 @@ Iteration-2
   <td><img src="images/Figure_1.png"></td> 
   <td><img src="images/Figure_1-3.png"></td>
 </tr>
-</table>
+</table> -->
