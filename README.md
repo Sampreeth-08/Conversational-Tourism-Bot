@@ -71,10 +71,7 @@ bash
 pip install nltk num2words scikit-learn matplotlib beautifulsoup4 selenium
 
 
-## Contributors
-
-- Sampreeth
-- Balarajaiah
+## Results
 
 
 Iteration-1
