@@ -73,7 +73,7 @@ pip install nltk num2words scikit-learn matplotlib beautifulsoup4 selenium
 
 ## Results
 
-<div align="center" style="display:flex;">
+<div align="center" style="display:grid; grid-template-columns: 1fr 1fr;">
   <img src="./images/Figure_1-2.png" width="50%">
   <img src="./images/Figure_1-1.png" width="50%">
 </div>
