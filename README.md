@@ -73,25 +73,14 @@ pip install nltk num2words scikit-learn matplotlib beautifulsoup4 selenium
 
 ## Results
 
+<div align="center" style="display:flex;">
+  <img src="./images/Figure_1-2.png" width="50%">
+  <img src="./images/Figure_1-1.png" width="50%">
+</div>
 
-Iteration-1
+
+<!-- Iteration-1
 ![Image 1](./images/Figure_1-2.png) ![Image 2](./images/Figure_1-1.png)
 
 Iteration-2
-![Image 1](./images/Figure_1.png) ![Image 2](./images/Figure_1-3.png)
-
-<!-- <table>
-<th>Results for Iteration-1</th>
-<tr>
-  <td><img src="images/Figure_1-2.png"></td> 
-  <td><img src="images/Figure_1-1.png"></td>
-</tr>
-</table>
-
-<table>
-<th>Results for Iteration-2</th>
-<tr>
-  <td><img src="images/Figure_1.png"></td> 
-  <td><img src="images/Figure_1-3.png"></td>
-</tr>
-</table> -->
+![Image 1](./images/Figure_1.png) ![Image 2](./images/Figure_1-3.png) -->
